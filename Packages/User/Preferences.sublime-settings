@@ -1,0 +1,60 @@
+{
+	"auto_complete": false,
+	"caret_style": "solid",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_encoding": "UTF-8 with ROM",
+	"default_line_ending": "unix",
+	"detect_slow_plugins": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc"
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Python PEP8 Autoformat",
+		"Terminal",
+		"SublimeAStyleFormatter",
+		"Markdown",
+		"Cscope",
+		"SublimeREPL",
+		"SublimeCodeIntel"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"show_minimap": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}

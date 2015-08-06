@@ -1,0 +1,30 @@
+# exclude file types
+*.sublime_session
+*.db
+
+# exclude all
+/*
+!README.md
+!.gitignore
+
+!Local/
+Local/*
+# include license
+!Local/License.sublime_license
+
+# include "Packages"
+!Packages/
+# exclude all folders and files in "Packages" but this folder
+Packages/*
+!Packages/User/
+
+# exclude folders patterns
+*History*
+*history*
+*tmp*
+*cache*
+
+# gitignore fucked my brain!
+# see https://www.kernel.org/pub/software/scm/git/docs/gitignore.html for detail
+
+# see [fnando](https://github.com/fnando/sublime-text/blob/master/.gitignore)

@@ -1,0 +1,10 @@
+{
+    // settings by Kelly Hwong
+    "ignored_packages":
+    [
+        //"SublimeREPL",
+        //"SublimeCodeIntel"
+        "Markdown Editing",
+        "Markdown Preview"
+    ]
+}

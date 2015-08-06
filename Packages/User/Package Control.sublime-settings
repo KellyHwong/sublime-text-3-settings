@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Cscope",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"Scheme",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Terminal"
+	]
+}

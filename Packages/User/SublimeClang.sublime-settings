@@ -1,0 +1,10 @@
+{
+    "show_output_panel": false,
+    "dont_prepend_clang_includes": true,
+    "inhibit_sublime_completions": false,
+
+    "options":
+    [
+        "-ID:\\Program Files (x86)\\Keil\\C51\\INC\\SST"
+    ]
+}

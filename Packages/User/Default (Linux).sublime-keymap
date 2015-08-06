@@ -1,0 +1,21 @@
+[
+    { "keys": ["ctrl+pagedown"], "command": "next_view" },
+    { "keys": ["ctrl+pageup"], "command": "prev_view" },
+
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+    { "keys": ["ctrl+shift+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["ctrl+shift+down"], "command": "select_lines", "args": {"forward": true} },
+
+    // 覆盖Terminal快捷键设置
+    { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+    { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal",
+        "args": {
+        "parameters": ["-T", "Working in directory %CWD%"]
+        }
+    },
+    { "keys": ["ctrl+alt+b"], "command": "toggle_side_bar" },
+    // MarkDown preview
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
+]
