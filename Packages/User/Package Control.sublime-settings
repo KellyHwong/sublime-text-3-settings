@@ -1,4 +1,23 @@
 {
+	"bootstrapped": true,
+	"debug": true,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"curl",
+			"wget",
+			"urllib"
+		],
+		"osx":
+		[
+			"urllib"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
 	"in_process_packages":
 	[
 	],
@@ -14,6 +33,7 @@
 		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
 		"SublimeREPL",
-		"Terminal"
+		"Terminal",
+		"WordCount"
 	]
 }
