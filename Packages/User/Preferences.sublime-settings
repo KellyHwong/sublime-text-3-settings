@@ -1,11 +1,12 @@
 {
+	"update_check": false,
 	"ignored_packages":
 	[
-		"ConvertToUTF8",
+		//"ConvertToUTF8",
 		"Cscope",
-		"Markdown Preview",
+		//"Markdown Preview",
 		"Python PEP8 Autoformat",
-		"Scheme",
+		//"Scheme",
 		"SublimeAStyleFormatter",
 		"SublimeREPL",
 		"Terminal",
