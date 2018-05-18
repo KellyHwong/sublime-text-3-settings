@@ -1,0 +1,1 @@
+{"description": "Python psutil module", "sublime_text": ">=3000", "url": "https://github.com/varp/sublime-psutil/issues", "platforms": ["*"], "version": "5.4.5"}
