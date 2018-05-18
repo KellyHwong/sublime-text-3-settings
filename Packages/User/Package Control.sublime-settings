@@ -23,17 +23,30 @@
 	],
 	"installed_packages":
 	[
+		"Anaconda",
+		"Chrome REPL",
 		"ConvertToUTF8",
 		"Cscope",
-		"Markdown Preview",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
 		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Theme",
 		"Package Control",
-		"Python PEP8 Autoformat",
 		"Scheme",
+		"SideBarEnhancements",
 		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-htmllint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
 		"SublimeREPL",
+		"SublimeTmpl",
+		"SummitLinter",
 		"Terminal",
+		"View In Browser",
 		"WordCount"
 	]
 }

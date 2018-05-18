@@ -1,17 +1,18 @@
 {
-	"update_check": false,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 14,
 	"ignored_packages":
 	[
-		//"ConvertToUTF8",
+		"Anaconda",
 		"Cscope",
-		//"Markdown Preview",
-		"Python PEP8 Autoformat",
-		//"Scheme",
+		"Python PEP",
 		"SublimeAStyleFormatter",
-		"SublimeREPL",
-		"Terminal",
 		"Vintage"
 	],
-	"theme": "Default.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"save_on_focus_lost": true,
+	"show_full_path": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"update_check": false
 }

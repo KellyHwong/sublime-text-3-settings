@@ -1,0 +1,5 @@
+// Sublime Text - Build System for Javascript
+{
+    "cmd": ["node", "$file"],
+    "selector": "source.js"
+}
