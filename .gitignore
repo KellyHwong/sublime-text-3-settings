@@ -1,3 +1,9 @@
+# the syntax of this gitignore is also too difficult to understand
+# respect my mind when I was young, now I'm too old to deal with this
+
+# just in case, actually following settings already cover this
+*.html
+
 # exclude file types
 *.sublime_session
 *.db
@@ -28,3 +34,7 @@ Packages/*
 # see https://www.kernel.org/pub/software/scm/git/docs/gitignore.html for detail
 
 # see [fnando](https://github.com/fnando/sublime-text/blob/master/.gitignore)
+
+# license, it's enced binary, syncing it is useless
+
+*License.sublime_license*
