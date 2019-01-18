@@ -24,11 +24,18 @@ Local/*
 Packages/*
 !Packages/User/
 
+# exclude
+Packages/User/Package*Control.cache
+Packages/User/Package*Control.last-run
+Packages/User/Package*Control.merged-ca-bundle
+Packages/User/oscrypto-ca-bundle.crt
+
 # exclude folders patterns
 *History*
 *history*
 *tmp*
 *cache*
+*last-run*
 
 # gitignore fucked my brain!
 # see https://www.kernel.org/pub/software/scm/git/docs/gitignore.html for detail

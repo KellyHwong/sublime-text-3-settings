@@ -24,7 +24,7 @@
 	"installed_packages":
 	[
 		"Anaconda",
-		"Chrome REPL",
+		"ChromeREPL",
 		"ConvertToUTF8",
 		"Cscope",
 		"Emmet",
